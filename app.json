@@ -1,8 +1,8 @@
 {
-  "name": "Spider-MD",
-  "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Samue-l1/Classic-V4",
-  "logo": "https://telegra.ph/file/d2a1d3bbfabf34fabe666.jpg",
+  "name": "Trills-MD",
+  "description": "whatsapp md bot built by Trills",
+  "repository": "https://github.com/Samue-l1/Classic-v3-BUG",
+  "logo": "https://telegra.ph/file/d3363fddb7a5143013385.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"]
 "env": {
       "autoviewstatus": {
